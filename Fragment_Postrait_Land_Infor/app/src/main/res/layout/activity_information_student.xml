@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".InformationStudentActivity">
 
-    <androidx.fragment.app.FragmentContainerView
+    <Fragment
         android:id="@+id/fragmentInfoChiTiet"
         android:name="com.tavanhieu.fragment_postrait_land_infor.FrangmentInfoSV"
         android:layout_width="match_parent"
